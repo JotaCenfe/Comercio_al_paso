@@ -46,15 +46,6 @@ El sistema no contempla conexión a base de datos, interfaz gráfica, autenticac
 
 ---
 
-## Tecnologías utilizadas
-
-- Lenguaje de programación Go.
-- Visual Studio Code.
-- Git.
-- GitHub.
-
----
-
 ## Paquetes utilizados
 
 Para el desarrollo del sistema no se utilizaron paquetes externos o de terceros. Únicamente se empleó el paquete estándar de Go:
